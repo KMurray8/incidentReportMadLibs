@@ -1,4 +1,10 @@
 import random
+
+
+print("=" * 40)
+print("       CYBER INCIDENT REPORT")
+print("=" * 40)
+
 time = input("Enter a time: ")
 device = input("Enter a device (include a or an): ")
 location = input("Enter a location (include the or a): ")
